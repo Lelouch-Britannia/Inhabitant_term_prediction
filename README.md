@@ -14,11 +14,6 @@ Often cities have specific terms used to describe their inhabitants. For instanc
 
 Develop a predictor which, given the name of a city, will provide the likely term for its inhabitants.
 
-## Requirements:
-
-1. Accept the city name as input.
-2. Provide the term for its inhabitants as output, or indicate if the term is unknown.
-
 
 ## Data Collection and Processing
 
