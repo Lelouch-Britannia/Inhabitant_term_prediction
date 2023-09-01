@@ -35,9 +35,5 @@ Develop a predictor which, given the name of a city, will provide the likely ter
 | australia       | australians      |
 | europe          | europeans        |
 | north america   | north americans  |
-| south america   | south americans  |
-| central america | central americans|
 
----
 
-This table and section provides a quick overview of your data collection and processing methodology.
