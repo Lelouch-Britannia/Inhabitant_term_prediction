@@ -21,7 +21,6 @@ austria,austrians
 barbuda,barbudans
 belize,belizeans
 bolivia,bolivians
-bosnia and herzegovina,bosnians and herzegovinians
 botswana,motswana
 brunei,bruneians
 bulgaria,bulgarians
@@ -52,7 +51,7 @@ india,indians
 indonesia,indonesians
 jamaica,jamaicans
 kenya,kenyans
-kiribati,i kiribati
+kiribati,kiribati
 north korea,north koreans
 south korea,south koreans
 kosovo,kosovars
@@ -139,7 +138,7 @@ galicia,galicians
 galilee,galileans
 gaza strip,gazans
 georgia,georgians
-hawaiʻi,hawaiians
+hawaii,hawaiians
 hebrides,hebrideans
 idaho,idahoans
 illinois,illinoisans
@@ -221,14 +220,14 @@ westphalia,westphalians
 aberdeen,aberdonians
 adelaide,adelaideans
 alexandria,alexandrians
-albuquerque,burqueños
+albuquerque,burquenos
 annapolis,annapolitans
 atlanta,atlantans
 baltimore,baltimoreans
 bath,bathonians
 bristol,bristolians
 brockton,brocktonians
-bogotá,bogotans
+bogota,bogotans
 canberra,canberrans
 charlotte,charlotteans
 chattanooga,chattanoogans
@@ -256,7 +255,7 @@ las vegas,las vegans
 liverpool,liverpudlians
 madera,maderans
 manchester,mancunians
-manila,manileños
+manila,manilenos
 mecca,meccans
 medina,medinans
 miami,miamians
@@ -385,7 +384,7 @@ kansas city,kansas citians
 kentucky,kentuckians
 kingston,kingstonians
 labrador,labradorians
-laguna,laguneño
+laguna,laguneno
 lancashire,lancastrians
 lancaster,lancastrians
 lesbos,lesbians
@@ -489,23 +488,23 @@ philippines,filipinos
 albuquerque,albuquerqueans
 belo horizonte,belo horizontinos
 buenos aires,bonaerense
-cainta,cainteños
-cavite,caviteños
-daraga,daragueños
-davao city,davaoeños
-iriga,irigueños
-legazpi,legazpeños
-ligao,ligaoeños
+cainta,caintenos
+cavite,cavitenos
+daraga,daraguenos
+davao city,davaoenos
+iriga,iriguenos
+legazpi,legazpenos
+ligao,ligaoenos
 los angeles,angelenos
-madrid,madrileños
+madrid,madrilenos
 manila,manilans
-masbate,masbateños
-naga,nagueños
-san pablo,san pableños
+masbate,masbatenos
+naga,naguenos
+san pablo,san pablenos
 são paulo,paulistanos
-tabaco,tabaqueños
+tabaco,tabaquenos
 tauranga,taurangans
-zamboanga city,zamboangueños
+zamboanga city,zamboanguenos
 akron,akronites
 ann arbor,ann arborites
 austin,austinites
@@ -601,7 +600,7 @@ hamburg,hamburgers
 hannover,hannoveraners
 hong kong,hong kongese
 iceland,icelandic
-kosovo[a],kosovan
+kosovo,kosovan
 leeds,loiners
 leipzig,leipzigers
 liechtenstein,liechtensteiners
@@ -690,7 +689,7 @@ bearn,bearnese
 bhutan,bhutanese
 bologna,bolognese
 botswana,botswanese
-burkina faso,burkinabé
+burkina faso,burkinabe
 calabria,calabrese
 cirebon,cirebonese
 china,chinese
@@ -721,7 +720,7 @@ malta,maltese
 manila,manilese
 marshall islands,marshallese
 milan,milanese
-myanmar/burma,burmese
+burma,burmese
 navarre,navarrese
 negeri sembilan,negeri sembilanese
 pahang,pahangite
@@ -744,7 +743,7 @@ shanghai,shanghaiese
 emirate of sharjah,sharjahnese
 siam,siamese
 sikkim,sikkimese
-,
+sudan,sudanese
 suriname,surinamese
 swindon,swindonese
 taiwan,taiwanese
@@ -869,9 +868,9 @@ tripoli,tripolitans
 venice,venetians
 wolverhampton,wulfrunians
 aberdeenshire,doric
-albuquerque,burqueños
-buenos aires,porteños
-concepción,penquistas
+albuquerque,burquenos
+buenos aires,portenos
+concepcion,penquistas
 connecticut,nutmeggers
 guinea bissau,bissau guinean
 edinburgh,lothian
@@ -883,13 +882,13 @@ massachusetts,bay staters
 north macedonia,macedonians
 nunavut,nunavummiut
 minas gerais,mineiros
-rio grande do sul,gaúchos
+rio grande do sul,gauchos
 rio de janeiro,cariocas
 são paulo,paulistas
 shropshire,salopian
 tierra caliente,calentano
 uruguay,orientales
-valparaíso,porteños
+valparaiso,portenos
 australia,aussie
 birmingham,brummie
 brisbane,brisvegan

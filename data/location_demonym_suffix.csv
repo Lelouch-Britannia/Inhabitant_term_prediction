@@ -1,0 +1,991 @@
+Location,Demonym,suffix/prefix
+africa,africans,ns
+antarctica,antarcticans,ns
+asia,asians,ns
+australia,australians,ns
+europe,europeans,ans
+north america,north americans,ns
+south america,south americans,ns
+central america,central americans,ns
+americas,americans,ns
+oceania,oceanians,ns
+afghanistan,afghans,s
+albania,albanians,ns
+algeria,algerians,ns
+andorra,andorrans,ns
+angola,angolans,ns
+antigua,antiguans,ns
+armenia,armenians,ns
+australia,australians,ns
+austria,austrians,ns
+barbuda,barbudans,ns
+belize,belizeans,ans
+bolivia,bolivians,ns
+botswana,motswana,m
+brunei,bruneians,ans
+bulgaria,bulgarians,ns
+burundi,burundians,ans
+cambodia,cambodians,ns
+chile,chileans,ans
+colombia,colombians,ns
+costa rica,costa ricans,ns
+croatia,croats,s
+cuba,cubans,ns
+czech republic,czechs,s
+dominican republic,dominicans,s
+el salvador,salvadorans,ans
+eritrea,eritreans,ns
+estonia,estonians,ns
+ethiopia,ethiopians,ns
+fiji,fijian,an
+galatia,galatians,ns
+gambia,gambians,ns
+georgia,georgians,ns
+germany,germans,s
+guatemala,guatemalans,ns
+guinea,guineans,ns
+haiti,haitians,ans
+honduras,hondurans,ns
+hungary,hungarians,ians
+india,indians,ns
+indonesia,indonesians,ns
+jamaica,jamaicans,ns
+kenya,kenyans,ns
+kiribati,kiribati,
+north korea,north koreans,ns
+south korea,south koreans,ns
+kosovo,kosovars,ars
+latvia,latvians,ns
+liberia,liberians,ns
+libya,libyans,ns
+lithuania,lithuanians,ns
+malawi,malawians,ans
+malaysia,malaysians,ns
+mali,malians,ans
+mauritania,mauritanians,ns
+mexico,mexicans,ans
+micronesia,micronesians,ns
+moldova,moldovans,ns
+mongolia,mongols,s
+monaco,monegasque,egasque
+morocco,moroccans,ans
+mozambique,mozambicans,cans
+myanmar,burmese,
+namibia,namibians,ns
+nauru,nauruans,ans
+nicaragua,nicaraguans,ns
+nigeria,nigerians,ns
+north macedonia,macedonians,ns
+palau,palauans,ans
+papua new guinea,papua new guineans,ns
+paraguay,paraguayans,ans
+persia,persians,ns
+puerto rico,puerto ricans,ans
+romania,romanians,ns
+russia,russians,ns
+rwanda,rwandese,ese
+saint lucia,saint lucians,ns
+samoa,samoans,ns
+saudi arabia,saudis,s
+serbia,serbs,s
+sierra leone,sierra leoneans,ans
+singapore,singaporeans,ans
+slovakia,slovaks,s
+slovenia,slovenes,es
+south africa,south africans,ns
+sri lanka,sri lankans,ns
+st. kitts and nevis,kittitians,itians
+syria,syrians,ns
+tanzania,tanzanians,ns
+tonga,tongans,ns
+tunisia,tunisians,ns
+tuvalu,tuvaluans,ans
+uganda,ugandans,ns
+uruguay,uruguayans,ans
+vanuatu,ni vanuatu,ni 
+venezuela,venezuelans,ns
+zambia,zambians,ns
+zimbabwe,zimbabweans,ans
+abkhazia,abkhaz,
+alaska,alaskans,ns
+alberta,albertans,ns
+algarve,algarvians,ians
+andalusia,andalusians,ns
+arizona,arizonans,ns
+arkansas,arkansans,ns
+asturias,asturians,ns
+bago region,bagoans,ans
+bangka island,bangkans,ns
+bavaria,bavarians,ns
+bay of plenty,bayer,er
+bohemia,bohemians,ns
+borneo,borneans,ans
+british columbia,british columbians,ns
+brittany,bretons,etons
+california,californians,ns
+carinthia,carinthians,ns
+colorado,coloradans,ans
+corsica,corsicans,ns
+crete,cretans,ans
+crimea,crimeans,ns
+cumbria,cumbrians,ns
+dalmatia,dalmatians,ns
+delaware,delawareans,ans
+district of columbia,washingtonians,
+extremadura,extremadurans,ns
+florida,floridians,ians
+galicia,galicians,ns
+galilee,galileans,ans
+gaza strip,gazans,ns
+georgia,georgians,ns
+hawaii,hawaiians,ans
+hebrides,hebrideans,ans
+idaho,idahoans,ans
+illinois,illinoisans,ans
+iowa,iowans,ns
+jakarta,jakartans,ns
+java,javanese,nese
+johor,johoreans,eans
+judea,judeans,ns
+kansas,kansans,ns
+karelia,karelians,ns
+kayah state,kayahans,ans
+kedah,kedahans,ans
+kentucky,kentuckians,ians
+khyber pakhtunkhwa,pathans,thans
+liguria,ligurians,ns
+louisiana,louisianians,ians
+madeira,madeirans,ns
+malacca,malaccans,ns
+majorca,majorcans,ns
+mandalay region,mandalayans,ans
+manitoba,manitobans,ns
+masuria,masurians,ns
+menorca,menorcans,ns
+minnesota,minnesotans,ns
+mississippi,mississippians,ans
+missouri,missourians,ans
+moluccas,moluccans,ns
+montana,montanans,ns
+moravia,moravians,ns
+nebraska,nebraskans,ns
+nevada,nevadans,ns
+new jersey,new jerseyans,ans
+new mexico,neomexicanos,
+normandy,normans,s
+north dakota,north dakotans,ns
+northwest territories,northwest territorians,ans
+nova scotia,nova scotians,ns
+ohio,ohioans,ans
+oklahoma,oklahomans,ns
+ontario,ontarians,ans
+oregon,oregonians,ians
+otago,otagans,ans
+papua,papuans,ns
+patagonia,patagonians,ns
+pennsylvania,pennsylvanians,ns
+pomerania,pomeranians,ns
+samogitia,samogitians,ns
+sabah,sabahans,ans
+sardinia,sards,s
+saskatchewan,saskatchewanite,ite
+silesia,silesians,ns
+slavonia,slavonians,ns
+south australia,south australians,ns
+south dakota,south dakotans,ns
+styria,styrians,ns
+sumatra,sumatrans,ns
+sumba,sumbans,ns
+sumbawa,sumbawans,ns
+syrmia,syrmians,ns
+tahiti,tahitians,ans
+tamil nadu,tamilan,an
+taranaki,taranakians,ans
+tasmania,taswegians,wegians
+tennessee,tennesseans,ans
+texas,texans,ns
+thuringia,thuringians,ns
+transnistria,transnistrians,ns
+transylvania,transylvanians,ns
+umbria,umbrians,ns
+utah,utahans,ans
+victoria,victorians,ns
+virginia,virginians,ns
+waikato,waikatorians,rians
+wake island,wakeans,ans
+wallachia,wallachians,ns
+western australia,westralians,
+west papua,west papuans,ns
+westphalia,westphalians,ns
+aberdeen,aberdonians,onians
+adelaide,adelaideans,ans
+alexandria,alexandrians,ns
+albuquerque,burquenos,
+annapolis,annapolitans,tans
+atlanta,atlantans,ns
+baltimore,baltimoreans,ans
+bath,bathonians,onians
+bristol,bristolians,ians
+brockton,brocktonians,ians
+bogota,bogotans,ns
+canberra,canberrans,ns
+charlotte,charlotteans,ans
+chattanooga,chattanoogans,ns
+chicago,chicagoans,ans
+cincinnati,cincinnatians,ans
+clitheroe,clitheronians,nians
+coimbatore,coimbatoreians,ians
+coventry,coventrians,ians
+danu,danuans,ans
+derby,derbeians,eians
+dundee,dundonians,onians
+el paso,el pasoans,ans
+galway,galwegians,egians
+glasgow,glaswegians,wegians
+hanoi,hanoians,ans
+hobart,hobartians,ians
+indianapolis,indianapolitans,tans
+istanbul,istanbulites,ites
+izmir,izmirians,ians
+jakarta,jakartans,ns
+kalamazoo,kalamazooans,ans
+kyiv,kyivans,ans
+kolkata,calcuttans,
+las vegas,las vegans,ns
+liverpool,liverpudlians,udlians
+madera,maderans,ns
+manchester,mancunians,unians
+manila,manilenos,enos
+mecca,meccans,ns
+medina,medinans,ns
+miami,miamians,ans
+milwaukee,milwaukeeans,ans
+minneapolis,minneapolitans,tans
+naypyidaw,naypyidawans,ans
+ngawi city,ngawians,ans
+oklahoma city,oklahoma cityans,ans
+ottawa,ottawans,ns
+philadelphia,philadelphians,ns
+pisa,pisans,ns
+pueblo,puebloans,ans
+regina,reginans,ns
+riga,rigans,ns
+rome,romans,ans
+sacramento,sacramentans,ans
+salem,salemians,ians
+san antonio,san antonians,ans
+san diego,san diegans,ans
+san francisco,san franciscans,ans
+san jose,san joseans,ans
+sarasota,sarasotans,ns
+sioux city,sioux cityans,ans
+springville,springvillians,ians
+sofia,sofians,ns
+st. louis,st. louisans,ans
+surabaya,surabayans,ns
+tauranga,taurangians,ians
+thebes,thebans,ans
+toledo,toledoans,ans
+tucson,tucsonians,ians
+tulsa,tulsans,ns
+utica,uticans,ns
+valencia,valencians,ns
+vilnius,vilnians,ans
+waco,wacoans,ans
+yuma,yumians,ians
+argentina,argentine,e
+artsakh,artsakhians,ians
+azerbaijan,azerbaijanis,is
+bahamas,bahamians,ians
+barbados,bajans,jans
+belarus,belarusians,ians
+belgium,belgians,ans
+brazil,brazilians,ians
+cameroon,cameroonians,ians
+canada,canadians,ians
+cayman islands,caymanians,ians
+chad,chadians,ians
+comoros,comorians,ians
+ecuador,ecuadorians,ians
+egypt,egyptians,ians
+ghana,ghanaians,ians
+gibraltar,gibraltarians,ians
+grenada,grenadians,ians
+iran,iranians,ians
+italy,italians,ians
+jordan,jordanians,ians
+laos,laotians,tians
+maldives,maldivians,ians
+palestine,palestinians,ians
+peru,peruvians,vians
+saint vincent,vincentians,ians
+trinidad and tobago,trinbagonians,bagonians
+ukraine,ukrainians,ians
+aarhus,aarhusians,ians
+adelaide,adelaidians,ians
+alabama,alabamians,ians
+athens,athenians,ians
+ayeyarwady region,ayeyarwadians,ians
+banat,banatians,ians
+ballarat,ballaratians,ians
+bareilly,bareillian,ian
+bengaluru,bangloreans,
+banten,banteneses,eses
+belgrade,belgraders,rs
+bermuda,bermudans,ns
+birmingham,birminghamians,ians
+blackburn,blackburnians,ians
+blackpool,blackpudlians,udlians
+bangkok,bangkokians,ians
+boston,bostonians,ians
+bracknell,bracknellians,ians
+bradford,bradfordians,ians
+brighton,brightonians,ians
+brisbane,brisbanites,ites
+bristol,bristolians,ians
+bukovina,bukovinian,ian
+burgundy,burgundians,ians
+calgary,calgarians,ians
+canary islands,canarians,ians
+canterbury,cantabrians,abrians
+castile,castilians,ians
+catalonia,catalan,an
+cedar rapids,cedar rapidians,ians
+chelmsford,chelmsfordians,ians
+chester,cestrians,
+chin state,chinians,ians
+chittagong,chittagonians,ians
+christchurch,christchurchers,ers
+cirebon,cirebonians,ians
+corinth,corinthians,ians
+coventry,coventrians,ians
+darwin,darwinians,ians
+dayton,daytonians,ians
+devon,devonians,ians
+duluth,duluthians,ians
+edmonton,edmontonians,ians
+florida,floridians,ians
+fort worth,fort worthians,ians
+fredericton,frederictonians,ians
+greenville,greenvillians,ians
+hamilton,hamiltonians,ians
+harrow,harrovians,vians
+hartlepool,hartlepudlians,udlians
+hereford,herefordians,ians
+herzegovina,herzegovinians,ians
+hesse,hessians,ians
+hobart,hobartians,ians
+houston,houstonians,ians
+isles of scilly,scillonians,onians
+iowa city,iowa citians,ians
+jessup,jessupians,ians
+kachin state,kachinians,ians
+kansas city,kansas citians,ians
+kentucky,kentuckians,ians
+kingston,kingstonians,ians
+labrador,labradorians,ians
+laguna,laguneno,eno
+lancashire,lancastrians,trians
+lancaster,lancastrians,rians
+lesbos,lesbians,ians
+lethbridge,lethbridgians,ians
+lexington,lexingtonians,ians
+liverpool,scousers,
+louisiana,louisianans,ns
+louisville,louisvillians,ians
+madison,madisonians,ians
+madrid,madrilenians,lenians
+maharashtra,marathis,
+mckinney,mckinnians,ians
+melbourne,melburnians,urnians
+memphis,memphians,ans
+michigan,michiganders,ders
+mobile,mobilian,ian
+nelson,nelsonians,ians
+new guinea,new guinians,ians
+new orleans,new orleanians,ians
+north carolina,north carolinians,ians
+northern territory,territorians,ians
+oregon,oregonians,ians
+paris,parisians,ians
+perlis,perlisians,ians
+perak,perakians,ians
+peterborough,peterborians,ians
+phoenix,phoenicians,cians
+plymouth,plymothians,thians
+port harcourt,harcourtians,ians
+podgorica,podgoricians,ians
+prince george's county,prince georgians,ians
+quezon,quezonin,in
+rivers state,riverians,ians
+rochdale,rochdalians,ians
+rochester,rochesterians,ians
+rockwall,rockwallians,ians
+rockwall county,rockwallians,ians
+saint petersburg,saint petersburgers,ers
+sarawak,sarawakians,ians
+saskatchewan,saskatchewanians,ians
+saskatoon,saskatonians,nians
+savannah,savannahians,ians
+shrewsbury,salopians,alopians
+sicily,sicilians,ians
+solihull,silhillians,
+south carolina,south carolinians,ians
+stockport,stopfordians,pfordians
+swindon,swindonians,ians
+tanintharyi region,tanintharians,ians
+tel aviv,tel avivians,ians
+telford,telfordians,ians
+thrace,thracians,ians
+towcester,towcestrians,rians
+truro,truronians,nians
+tuban,tubanians,ians
+tucson,tucsonians,ians
+vilnius,vilnians,ans
+washington,washingtonians,ians
+wellington,wellingtonians,ians
+wilmington,wilmingtonians,ians
+yukon,yukonians,ians
+guam,guamanians,anians
+mawlamyine,mawlamanians,anians
+bendigo,bendigonians,nians
+buffalo,buffalonians,nians
+cork,corkonians,onians
+manchester,mancunians,unians
+naga,naganians,nians
+panama,panamanians,nians
+sligo,sligonians,nians
+tampa,tampanians,nians
+tobago,tobagonians,nians
+toronto,torontonians,nians
+torquay,torquinians,inians
+trinidad and tobago,trinbagonians,bagonians
+truro,truronians,nians
+wa,wanians,nians
+argentina,argentinians,ians
+byzantium,byzantines,nes
+florence,florentia,tia
+gilbert islands,gilbertines,ines
+the levant,levantines,ines
+montenegro,montenegrins,ins
+palatinate,palatines,es
+philippines,filipina,
+philistia,philistines,nes
+quezon,quezonians,ians
+lucena,lucenahins,hins
+tayabas,tayabense,ense
+lucban,lucbanins,ins
+infanta,infantahins,hins
+sariaya,sariayahins,hins
+brgy. ilayang/ibabang talim,talimin,in
+brgy. isabang,isabangin,in
+brgy. morong,morongin,in
+bicol,bicolanos,anos
+cebu,cebuanos,anos
+el salvador,salvadorans,ans
+new mexico,new mexicans,ans
+philippines,filipinos,
+albuquerque,albuquerqueans,ans
+belo horizonte,belo horizontinos,inos
+buenos aires,bonaerense,
+cainta,caintenos,enos
+cavite,cavitenos,nos
+daraga,daraguenos,uenos
+davao city,davaoenos,enos
+iriga,iriguenos,uenos
+legazpi,legazpenos,enos
+ligao,ligaoenos,enos
+los angeles,angelenos,nos
+madrid,madrilenos,lenos
+manila,manilans,ns
+masbate,masbatenos,nos
+naga,naguenos,uenos
+san pablo,san pablenos,enos
+são paulo,paulistanos,istanos
+tabaco,tabaquenos,quenos
+tauranga,taurangans,ns
+zamboanga city,zamboanguenos,uenos
+akron,akronites,ites
+ann arbor,ann arborites,ites
+austin,austinites,ites
+bagansiapiapi,bagansiapiapites,tes
+baku,bakuvites,vites
+bergen county,bergenites,ites
+boulder,boulderites,ites
+brisbane,brisbanian,ian
+bronx,bronxites,ites
+brooklyn,brooklynites,ites
+carson city,carsonites,ites
+chennai,chennaiites,ites
+dallas,dallasites,ites
+decatur,decaturites,ites
+delhi,delhites,tes
+denton,dentonites,ites
+denver,denverites,ites
+dhaka,dhakaiya,iya
+dubai,dubaiites,ites
+dunedin,dunedinites,ites
+durban,durbanites,ites
+erie,erieites,ites
+gaya,gayaites,ites
+guelph,guelphites,ites
+irmo,irmites,ites
+israel,israeli,i
+istanbul,istanbulites,ites
+jerusalem,jerusalemites,ites
+karachi,karachiites,ites
+kerala,keralites,ites
+kweyol,kweyolites,ites
+labuan bajo,labuan bajoites,ites
+leicester,leicesterite,ite
+manhattan,manhattanites,ites
+mon state,monites,ites
+moscow,muscovia,
+montpelier,montpelierites,ites
+mumbai,mumbaiites,ites
+new hampshire,new hampshirites,ites
+norman,normanites,ites
+oban,obanites,ites
+odesa,odesites,ites
+pahang,pahangese,ese
+patna,patnaites,ites
+penang,penangite,ite
+perth,perthian,ian
+pullman,pullmanites,ites
+putney,putneyites,ites
+queens,queensites,ites
+reading,readingites,ites
+reno,renoites,ites
+ruskin,ruskinites,ites
+saint paul,saint paulites,ites
+salem,salemites,ites
+seattle,seattleites,ites
+seoul,seoulites,ites
+shiloh,ahijah the shilonite,
+shillong,nong shillong,nong 
+smyrna,smynite,nite
+spokane,spokanites,ites
+sydney,sydneysider,sider
+tokyo,tokyoites,ites
+vancouver,vancouverites,ites
+vizag,vizagites,ites
+warangal,warangalites,ites
+wenham,wenhamites,ites
+westchester county,westchesterites,ites
+whittier,whittierites,ites
+winston salem,winston salemites,ites
+wisconsin,wisconsinites,ites
+wrexham,wrexhamites,ites
+wyoming,wyomingites,ites
+yangon,yangonites,ites
+amsterdam,amsterdammers,mers
+auckland,aucklanders,ers
+bakersfield,bakersfielder,er
+beijing,beijingers,ers
+belgrade,belgraders,rs
+bergen,bergeners,ers
+berlin,berliners,ers
+bucharest,bucharesters,ers
+budapest,budapesters,ers
+cleveland,clevelanders,ers
+cook islands,cook islanders,ers
+copenhagen,copenhageners,ers
+detroit,detroiters,ers
+dublin,dubliners,ers
+dresden,dresdeners,ers
+fife,fifers,rs
+frankfurt,frankfurters,ers
+greenland,greenlandic,ic
+hamburg,hamburgers,ers
+hannover,hannoveraners,aners
+hong kong,hong kongese,ese
+iceland,icelandic,ic
+kosovo,kosovan,an
+leeds,loiners,oiners
+leipzig,leipzigers,ers
+liechtenstein,liechtensteiners,ers
+little rock,little rockers,ers
+london,londoners,ers
+lorraine,lorrainers,rs
+luxembourg,luxembourgers,ers
+maine,mainers,rs
+maryland,marylanders,ers
+michigan,michiganders,ders
+montreal,montrealers,ers
+netherlands,dutchman,dutchm
+new brunswick,new brunswickers,ers
+new england,new englanders,ers
+new york,new yorkers,ers
+new zealand,new zealanders,ers
+newfoundland,newfoundlanders,ers
+oakland,oaklanders,ers
+pangkal pinang,pangkalpinangers,pinangers
+pittsburgh,pittsburghers,ers
+prague,praguers,rs
+prince edward island,prince edward islander,er
+puntland,puntlanders,ers
+quebec,quebecois(e),ois(e)
+queensland,queenslanders,ers
+rhineland,rhinelanders,ers
+rhode island,rhode islanders,ers
+rotterdam,rotterdammers,mers
+saigon,saigoners,ers
+solomon islands,solomon islanders,ers
+stockholm,stockholmers,ers
+stuttgart,stuttgarters,ers
+tallinn,tallinners,ers
+vermont,vermonters,ers
+winnipeg,winnipeggers,gers
+yellowknife,yellowknifers,rs
+york,yorkies,ies
+yukon,yukoners,ers
+zurich,zurichers,ers
+åland,ålandic,ic
+bangka island,bangkish,ish
+britain,britons,ons
+cornwall,cornishmen,ishmen
+denmark,danes,anes
+england,englishmen,ishmen
+finland,finns,ns
+flanders,flemings,emings
+ireland,irishmen,ishmen
+kent,kentish people,ish people
+kurdistan,kurds,s
+lombok,lombokish people,ish people
+luxembourg,luxembourgers,ers
+new south wales,new south welshmen,elshmen
+niger,nigerien,ien
+northern ireland,northern irish people,ish people
+poland,poles,es
+scotland,scots,s
+spain,spaniards,niards
+sweden,swedes,s
+turkey,turks,s
+wales,welshmen,elshmen
+cairo,cairenes,enes
+cyrenaica,cyrenes,es
+damascus,damascenes,enes
+nazareth,nazarenes,nes
+palmyra,palmyrenes,enes
+slovenia,slovenians,ns
+kingston upon hull,hullensians,ensians
+leeds,leodensians,odensians
+reading,readingensians,ensians
+spain,spanish,nish
+savoy,savoyards,ards
+montagne,montagnards,ards
+shafter,shaftards,ards
+abruzzo,abruzzese,ese
+ajman,ajmanese,ese
+aragon,aragonese,ese
+aceh,acehnese,nese
+assam,assamese,ese
+bali,balinese,nese
+bengal,bengalese,ese
+benin,beninois,ois
+bergen,bergenese,ese
+bern,bernese,ese
+bearn,bearnese,ese
+bhutan,bhutanese,ese
+bologna,bolognese,ese
+botswana,botswanese,ese
+burkina faso,burkinabe,be
+calabria,calabrese,ese
+cirebon,cirebonese,ese
+china,chinese,ese
+congo,congolese,lese
+da lat,dalatese,
+east timor,east timorese,ese
+faroe islands,faroese,se
+emirate of fujairah,fujairahnese,nese
+gabon,gabonais,ais
+genoa,genovese,vese
+gilbert islands,gilbertine,ine
+grenadines,grenadinese,e
+guangdong,cantonese,
+guyana,guyanese,ese
+hainan,hainanese,ese
+hong kong,hongkongese,kongese
+hunan,hunanese,ese
+japan,nipponese,
+java,javans,ns
+kawthaung,kawthaunggese,gese
+kelantan,kelantanese,ese
+kokang,kokanggese,gese
+lebanon,lebanese,ese
+leon,leonese,ese
+london,londonese,ese
+macao,macanese,nese
+malta,maltese,ese
+manila,manilese,ese
+marshall islands,marshallese,ese
+milan,milanese,ese
+burma,burmese,ese
+navarre,navarrese,se
+negeri sembilan,negeri sembilanese,ese
+pahang,pahangite,ite
+pa laung,palaunggese,
+pa'o,paonese,onese
+piedmont,piedmontese,ese
+pittsburgh,pittsburghese,ese
+portugal,portuguese,uese
+rakhine state,arakanese,
+ras al khaimah,khaimahnese,nese
+rwanda,rwandans,ns
+saba,sabanese,nese
+sagaing region,sagainggese,gese
+san marino,sammarinese,
+sark,sarkese,ese
+sassari,sassarese,ese
+senegal,senegalese,ese
+shan state,shanese,ese
+shanghai,shanghaiese,ese
+emirate of sharjah,sharjahnese,nese
+siam,siamese,ese
+sikkim,sikkimese,ese
+sudan,sudanese,ese
+suriname,surinamese,se
+swindon,swindonese,ese
+taiwan,taiwanese,ese
+taunggyi,taunggese,ese
+tegal,tegalese,ese
+togo,togolese,lese
+turin,torinese,
+umm al quwain,quwainese,ese
+vienna,viennese,ese
+vietnam,vietnamese,ese
+afghanistan,afghans,s
+azerbaijan,azeris,is
+bahrain,bahrainis,is
+bangladesh,bangladeshis,is
+eswatini,swazis,zis
+iraq,iraqis,is
+israel,israelis,is
+kazakhstan,kazakhs,
+kurdistan,kurdish,h
+kuwait,kuwaitis,is
+kyrgyzstan,kyrgyz,
+nepal,nepalese,ese
+oman,omanis,is
+pakistan,pakistanis,is
+qatar,qataris,is
+somalia,somalis,s
+tajikistan,tajiks,s
+thailand,thais,s
+trinidad and tobago,trini,
+turkmenistan,turkmen,
+united arab emirates,emiratis,is
+uzbekistan,uzbeks,s
+yemen,yemenis,is
+allahabad,allahabadis,is
+azawad,azawadis,is
+azra,azragis,gis
+balochistan,baloch,
+barisal,borishali,
+beirut,beirutis,is
+bangladesh,bengalis,
+bharat,bharatiya,iya
+bihar,biharis,is
+birmingham,brummies,
+dagestan,dagestanis,is
+dhaka,dhakaites,ites
+faridabad,faridabadis,is
+glasgow,weegie,
+gujarat,guju,u
+hazara,azragi,ragi
+hyderabad,hyderabadis,is
+kerala,malayalee,
+kumaon,kumaiye,iye
+lahore,lahoris,is
+punjab,punjabis,is
+rajasthan,rajasthanis,is
+rangpur,rangpuris,is
+sindh,sindhis,is
+sylhet,siloti,iloti
+tel aviv,tel avivim,im
+yorkshire,yorkshireman,man
+chios,chiots,ts
+corfu,corfiots,iots
+cyprus,cyprian,ian
+phanar,phanariotes,iotes
+greece,greeks,ks
+slovakia,slovaks,s
+bergamo,bergamasque,asque
+menton,mentonasque,asque
+basque country,basque,
+sanremo,sanremasque,asque
+dawei,dawegians,gians
+galloway,galwegians,wegians
+galway,galwegians,egians
+glasgow,glaswegians,wegians
+magway region,magwegians,egians
+norway,norwegians,egians
+aberdeen,aberdonians,onians
+bath,bathonians,onians
+connacht,connachtonians,onians
+cork,corkonians,onians
+dundee,dundonians,onians
+halifax,haligonians,gonians
+lesotho,lesothonians,nians
+newport,newportonians,onians
+oxford,oxonians,onians
+barrow in furness,barrovians,vians
+harrow,harrovians,vians
+moose jaw,moose javians,vians
+oamaru,oamaruvians,vians
+oslo,oslovians,vians
+peru,peruvians,vians
+warsaw,warsovians,ovians
+waterloo,waterluvians,uvians
+wythenshawe,wythenshavians,vians
+benin,beninese,ese
+gabon,gabonese,ese
+seychelles,seychellois,ois
+quebec,quebecker,ker
+alsace,alsatians,tians
+annapolis,annapolitans,tans
+argyll,argathelians,athelians
+ashbourne,ashburnians,urnians
+cambridge,cantabrigians,
+canterbury,cantabrians,abrians
+chester,cestrians,
+colchester,colcestrians,estrians
+courland,couronians,onians
+exeter,exonians,onians
+guernsey,sarnians,
+halifax,haligonian,gonian
+leeds,leodensians,odensians
+lviv,leopolitans,eopolitans
+manchester,mancunians,unians
+melbourne,melburnians,urnians
+minneapolis,minneapolitans,tans
+naples,neapolitans,
+newcastle,novocastrians,
+orkney islands,orcadians,cadians
+oswestry,oswestrians,ians
+shropshire,salopians,
+tripoli,tripolitans,tans
+venice,venetians,etians
+wolverhampton,wulfrunians,ulfrunians
+aberdeenshire,doric,
+albuquerque,burquenos,
+buenos aires,portenos,port
+concepcion,penquistas,
+connecticut,nutmeggers,
+guinea bissau,bissau guinean,
+edinburgh,lothian,
+lisbon,alfacinha,
+indiana,hoosiers,
+los angeles,angelenos,nos
+madagascar,malagasy,
+massachusetts,bay staters,
+north macedonia,macedonians,ns
+nunavut,nunavummiut,mmiut
+minas gerais,mineiros,eiros
+rio grande do sul,gauchos,
+rio de janeiro,cariocas,
+são paulo,paulistas,istas
+shropshire,salopian,
+tierra caliente,calentano,entano
+uruguay,orientales,
+valparaiso,portenos,ortenos
+australia,aussie,sie
+birmingham,brummie,
+brisbane,brisvegan,vegan
+canada,canuck,uck
+cardiff,taffs,
+hartlepool,monkey hanger,
+jersey,jèrriais,èrriais
+kansas,jayhawker,
+liverpool,scouser,scous
+london,cockney,
+memphis,memphibians,bians
+mexico,azteca,
+middlesbrough,smoggie,
+newcastle,novocastrian,
+newcastle upon tyne,geordie,geordi
+newfoundland,newfie,ie
+new zealand,kiwi,
+nigeria,naija,aija
+north carolina,tar heel,
+philippines,pinoy,oy
+pittsburgh,yinzer,
+peru,inca,inca
+puerto rico,boricua,
+south australia,croweater,
+sunderland,mackem,
+sweden,swede,
+sydney,sydneysider,sider
+ohio,buckeye,buckeye
+oklahoma,okie,ie
+oldham,yonner,
+tasmania,taswegian,wegian
+upper peninsula of michigan,yooper,yoo
+wisconsin,cheesehead,
+melbourne,melbournite,ite
+american,yank or yankee,
+abkhazia,abkhazians,ns
+afghanistan,afghans,s
+albania,albanians,ns
+arab league,arabs,s
+azerbaijan,azerbaijanis,is
+bengal,bengalese,ese
+bulgaria,bulgarians,ns
+cambodia,khmers,
+chechnya,chechens,ens
+china,chinese,ese
+croatia,croats,s
+czech republic,czechs,s
+denmark,danes,anes
+egypt,egyptians,ians
+england,english,ish
+eswatini,swazis,zis
+finland,finn,n
+flanders,flemings,emings
+france,french,ench
+united kingdom,british,
+haiti,haitian,an
+hayastan,armenians,
+hungary,hungarians,ians
+india,indians,ns
+indonesia,indonesians,ns
+ingushetia,ingushians,ians
+iran,iranians,ians
+ireland,irish,ish
+israel,israeli,i
+jersey,jerseymen,men
+kalmykia,kalmyks,s
+kazakhstan,kazakhs,
+kwazulu,zulus,s
+kurdistan,kurds,s
+kumaon,kumaonis,is
+kyrgyzstan,kyrgyzs,
+lapland,lapps,ps
+madagascar,malagasys,
+malta,maltese,ese
+mongolia,mongols,s
+montenegro,montenegrins,ins
+morocco,moroccans,ans
+the americas,native americans,
+netherlands,dutch,
+new zealand,kiwis,
+odisha,odias,as
+philippines,filipinos,
+poland,poles,es
+scotland,scots,s
+serbia,serbs,s
+sorbia,sorbs,s
+slovakia,slovaks,s
+slovenia,slovenes,es
+somalia,somalis,s
+spain,spanish,nish
+sweden,swedes,s
+tajikistan,tajiks,s
+tamil nadu,tamils,s
+thailand,thais,s
+turkey,turks,s
+turkmenistan,turkmens,s
+ulster,ulstermen,men
+united states,americans,
+uzbekistan,uzbeks,s
+wales,welsh people,welsh peop
